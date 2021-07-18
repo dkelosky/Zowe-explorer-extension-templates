@@ -9,11 +9,11 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 |---|---|---|
 | Project Plan | Overall week by week plan of milestones | |
 | Week 1 Status Report |Initial meeting | | 
-| Week 2 Status Report | Discuss: Pull request & fork. Python & REXX. Next steps: Javascript / Typescript / Node.js + project| |
-| Week 3 Status Report |Canceled meeting; waiting for new computer | |
-| Week 4 Status Report | Review previous projects and tasks sent through slack: vs code extension, nodejs web service, package.json, npm, typescript, jest| |
-| Week 5 Status Report |Review my master the mainframe profile connection issues, Run sample REST API, make sample CLI Plugin, create VS Code extension. Diff CLI plugin has a bug that it always prompts for a password. We will fix this by or during next meeting. I(Muhammad Ali) was able to run the REST API SDK and can connect to it via cURL and swagger UI  | |
-| Week 6 Status Report |We disscussed UML, plantuml, and markdown. We will use these tools to draft architecture and document design for the extension templete | |
+| Week 2 Status Report | Discuss: - Pull request & fork. Python & REXX.  Next steps: Javascript / Typescript / Node.js + project | |
+| Week 3 Status Report | Canceled meeting waiting for new computer | |
+| Week 4 Status Report | Review previous projects: vs code extension, nodejs web services, package.json, npm, typescript, jest | |
+| Week 5 Status Report | Review master the mainframe connection issues. Run sample REST API, make sample CLI Plugin, create VS Code extension. Diff CLI plugin has a bug that it always prompts for a password. We will fix this by or during next meeting. Muhammad is able to run the REST API SDK and can connect to it via cURL and swagger. | |
+| Week 6 Status Report | We disscussed UML, plantuml, and markdown. We will use these tools to draft architecture and document design for the extension template | |
 | Week 7 Status Report | | |
 | Week 8 Status Report | | |
 | Week 9 Status Report | | |
