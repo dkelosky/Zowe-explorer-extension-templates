@@ -14,4 +14,4 @@ a better understanding of the problems you encountered during the developmemnt o
 
 ## Project Team
 - *Daniel Kelosky*  - *Broadcom* - Mentor
-- *Muhammid Ali* - *University* - Mentee
+- *Muhammad Ali* - *University* - Mentee
