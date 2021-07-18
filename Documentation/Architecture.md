@@ -1,5 +1,5 @@
 
-# [Zowe](https://www.zowe.org/) Explorer Extension Template Architecture
+# [Zowe](https://www.zowe.org/) Explorer Extension Templates Architecture
 
 ![alt text](Architecture.png)
 
