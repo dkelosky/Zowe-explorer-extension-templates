@@ -7,14 +7,15 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 
 | Document | Description | Document Name |
 |---|---|---|
-| Project Plan | Overall week by week plan of milestones | |
-| Week 1 Status Report | Initial meeting | | 
-| Week 2 Status Report | Discuss: - Pull request & fork.  Python & REXX.  Next steps: JavaScript / TypeScript / Node.js + Project | |
-| Week 3 Status Report | Canceled meeting waiting for new computer | |
-| Week 4 Status Report | Review previous projects: vs code extension, nodejs web services, package.json, npm, typescript, jest  | |
-| Week 5 Status Report | Review master the mainframe connection issues. Run sample REST API, make sample CLI plugin, create VS Code extension. Diff CLI plugin has a bug that it always prompts for a password.  We will fix this by or during next meeting.  Muhammad is able to run the REST API SDK can connect to it via cURL and Swagger. | |
-| Week 6 Status Report | We discussed UML, plantuml, and markdown.  We will use these tools to draft architecture and design document for the extension template | |
-| Week 7 Status Report | | |
+ master
+| Project Plan | Overall week by week plan of milestones | [project plan.md](https://github.com/muhammad-md/Zowe-explorer-extension-templates/blob/master/Status%20Reports/project%20plan.md) |
+| Week 1 Status Report | Work done in week 1 | [Week 1 Status Report.md](https://github.com/muhammad-md/Zowe-explorer-extension-templates/blob/master/Status%20Reports/Week%201%20Status%20Report.md) | 
+| Week 2 Status Report | Work done in week 2 |[Week 2 Status Report.md](https://github.com/muhammad-md/Zowe-explorer-extension-templates/blob/master/Status%20Reports/Week%202%20Status%20Report.md) |
+| Week 3 Status Report | Work done in week 3 |[Week 3 Status Report.md](https://github.com/muhammad-md/Zowe-explorer-extension-templates/blob/master/Status%20Reports/Week%203%20Status%20Report.md) |
+| Week 4 Status Report | Work done in week 4 |[Week 4 Status Report.md](https://github.com/muhammad-md/Zowe-explorer-extension-templates/blob/master/Status%20Reports/Week%204%20Status%20Report.md) |
+| Week 5 Status Report | Work done in week 5 |[Week 5 Status Report.md](https://github.com/muhammad-md/Zowe-explorer-extension-templates/blob/master/Status%20Reports/Week%205%20Status%20Report.md) |
+| Week 6 Status Report | Work done in week 6 |[Week 6 Status Report.md](https://github.com/muhammad-md/Zowe-explorer-extension-templates/blob/master/Status%20Reports/Week%206%20Status%20Report.md) |
+| Week 7 Status Report | Work done in week 7 |[Week 7 Status Report.md](https://github.com/muhammad-md/Zowe-explorer-extension-templates/blob/master/Status%20Reports/Week%207%20Status%20Report.md) |
 | Week 8 Status Report | | |
 | Week 9 Status Report | | |
 | Week 10 Status Report | | |
